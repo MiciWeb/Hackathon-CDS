@@ -1,8 +1,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](http://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](http://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](http://forthebadge.com)
 
-# Présentation du hackathon
+## Présentation du hackathon
 Ce hackathon a été organisé au salon [IFTM Top resa](https://www.iftm.fr/fr-fr.html) par [CDS Groupe](https://www.cdsgroupe.com/) qui est un spécialiste des solutions de réservation et des services liés à l’hôtellerie d'affaires.
 Le but était de répondre à une problématique concernant le voyageur d'affaire de demain en apportant une solution digitale et en utilisant [l'api officiel de CDS groupe](https://raw.githubusercontent.com/MiciWeb/Hackathon-CDS/master/src/image/hackhaton-project-screen/Api-Cds.png) en équipe de 5 et pour une durée de [24 heures maximum](https://raw.githubusercontent.com/MiciWeb/Hackathon-CDS/master/src/image/hackhaton-project-screen/screen-time.png).
 Pour ce hackathon j'ai été le développeur web et designer de mon équipe.
@@ -16,7 +15,7 @@ Et ensuite par une [page de recherche](https://raw.githubusercontent.com/MiciWeb
 Vous pouvez lancer le projet en le clonant dans un dossier avec la commande "git clone" puis en inscrivant la commande "npm install" suivit de "npm start" dans le terminal du dossier (Assurez-vous d'avoir la dernière version de [nodeJs](https://nodejs.org/en/), par contre les résultats de la recherche ne s'afficheront pas car je n'ai plus accès à l'api de CDS Groupe.
 
 ## Déroulement
-Début 14H00 - J'ai été mis dans une équipe ou il y avait un développeur et 3 étudiants en école de tourisme et d'hôtellerie que je ne connaissais pas et à partir de là on a du réfléchir à des idées et commencer à monter notre projet.
+14H00 - Début du hackathon, j'ai été mis dans une équipe ou il y avait un développeur et 3 étudiants en école de tourisme et d'hôtellerie que je ne connaissais pas et à partir de là on a du réfléchir à des idées et commencer à monter notre projet.
 Au même moment j'ai commencé à chercher des exemples de modèles et sur quel genre de design je voulais réaliser le site web final et j'ai finalement choisi de le faire en un qui se rapproche du [flat design](https://www.usabilis.com/flat-design/) qui est un style de design très à la mode qui se caractérise par son coté épuré, minimaliste et fait de couleurs vives.
 
 16H00 - On a trouver une idée qui était de répondre à la forte demande et montée des espaces de travails après la crise en ajoutant une fonctionnalité à l'api de CDS Groupe qui permet de préciser si dans un hôtel il y aura oui ou non un espace de travail.
@@ -37,7 +36,7 @@ Au même moment j'ai commencé à chercher des exemples de modèles et sur quel 
 
 14H00 - Fin du hackathon
 
-18H00 - Annonce des résultats et sur les 11 équipes de 5 nous avons été sélectionnée vainqueur, j'ai vraiment aimé faire ce hackathon car j'ai pu travailler en équipe avec d'autres types de profils que des développeurs web et cela est vraiment enrichissant comme expérience.
+18H00 - Annonce des résultats et sur les 11 équipes de 5 nous avons été sélectionnée vainqueur, j'ai vraiment aimé faire ce hackathon car j'ai pu travailler en équipe avec d'autres types de profils que des développeurs web et c'est est vraiment enrichissant comme expérience.
 
 ## Équipe 4 - BreizhGeek
 * [Micipsa Sersour](https://www.linkedin.com/in/micipsa-sersour/) _alias_ [@MiciWeb](https://github.com/MiciWeb).
