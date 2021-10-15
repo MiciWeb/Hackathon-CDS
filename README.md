@@ -1,5 +1,6 @@
-[forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
-[forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](http://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](http://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](http://forthebadge.com)
 
 # Présentation du hackathon
 Ce hackathon a été organisé au salon [IFTM Top resa](https://www.iftm.fr/fr-fr.html) par [CDS Groupe](https://www.cdsgroupe.com/) qui est un spécialiste des solutions de réservation et des services liés à l’hôtellerie d'affaires.
@@ -39,9 +40,9 @@ Au même moment j'ai commencé à chercher des exemples de modèles et sur quel 
 18H00 - Annonce des résultats et sur les 11 équipes de 5 nous avons été sélectionnée vainqueur, j'ai vraiment aimé faire ce hackathon car j'ai pu travailler en équipe avec d'autres types de profils que des développeurs web et cela est vraiment enrichissant comme expérience.
 
 ## Équipe 4 - BreizhGeek
-* **Micipsa Sersour** _alias_ [@MiciWeb](https://github.com/MiciWeb).
-* **[Margot Bruand](https://www.linkedin.com/in/margaux-bruand-pro/)**
-* **[Mickael Ponapin](https://www.linkedin.com/in/mickael-ponapin/)**
-* **[Eugenie Audren](https://www.linkedin.com/in/eug%C3%A9nie-audren-de-kerdrel-453989a7/)**
-* **[Kevin Moirou](https://www.linkedin.com/in/k%C3%A9vin-moirou-25568412b//)**
+* [Micipsa Sersour](https://www.linkedin.com/in/micipsa-sersour/) _alias_ [@MiciWeb](https://github.com/MiciWeb).
+* [Margot Bruand](https://www.linkedin.com/in/margaux-bruand-pro/)
+* [Mickael Ponapin](https://www.linkedin.com/in/mickael-ponapin/)
+* [Eugenie Audren](https://www.linkedin.com/in/eug%C3%A9nie-audren-de-kerdrel-453989a7/)
+* [Kevin Moirou](https://www.linkedin.com/in/k%C3%A9vin-moirou-25568412b//)
 
