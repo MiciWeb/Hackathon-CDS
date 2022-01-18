@@ -7,12 +7,12 @@ Le but était de répondre à une problématique concernant le voyageur d'affair
 Pour ce hackathon j'ai été le développeur web et designer de mon équipe.
 
 ## Présentation du projet
-Ce site fait en [react](https://fr.reactjs.org/) a été réalisé dans le but de représenter la fonctionnalité qu'on souhaiter proposer à l'api de CDS Groupe durant ce hackathon qui était de rechercher et de filtrer les hôtels par espaces de travails qu'ils contiennent afin de répondre à la forte demande et montée de ceci après la crise sanitaire.
+Ce site fait en [react](https://fr.reactjs.org/) a été réalisé dans le but de représenter la fonctionnalité qu'on souhaiter proposer à l'api de CDS Groupe durant le hackathon qui était de rechercher et de filtrer les hôtels par espaces de travails qu'ils contiennent afin de répondre à la forte demande et montée de ceci après la crise sanitaire.
 Il se présente en premier temps par une [page d'accueil](https://raw.githubusercontent.com/MiciWeb/Hackathon-CDS/master/src/image/hackhaton-project-screen/1-home-page.png) qui invite l'utilisateur à rechercher un hôtel de l'api officiel.
 Et ensuite par une [page de recherche](https://raw.githubusercontent.com/MiciWeb/Hackathon-CDS/master/src/image/hackhaton-project-screen/2-search-page.png) ou l'utilisateur peut choisir ses hôtels en fonctions des type ou nombres d'espaces de travails disponibles tout en consultant leurs notes et quelques critères d'intérieur.
 
 ## Lancer le projet
-Vous pouvez lancer le projet en le clonant dans un dossier avec la commande "git clone" puis en inscrivant la commande "npm install" suivit de "npm start" dans le terminal du dossier (Assurez-vous d'avoir la dernière version de [nodeJs](https://nodejs.org/en/), par contre les résultats de la recherche ne s'afficheront pas car je n'ai plus accès à l'api de CDS Groupe.
+Vous pouvez lancer le projet en le clonant dans un dossier avec la commande "git clone" puis en inscrivant la commande "npm install" suivit de "npm start" dans le terminal du dossier (Assurez-vous d'avoir la dernière version de [nodeJs](https://nodejs.org/en/) ), par contre les résultats de la recherche ne s'afficheront pas car je n'ai plus accès à l'api de CDS Groupe.
 
 ## Déroulement
 14H00 - Début du hackathon, j'ai été mis dans une équipe ou il y avait un développeur et 3 étudiants en école de tourisme et d'hôtellerie que je ne connaissais pas et à partir de là on a du réfléchir à des idées et commencer à monter notre projet.
@@ -36,7 +36,7 @@ Au même moment j'ai commencé à chercher des exemples de modèles et sur quel 
 
 14H00 - Fin du hackathon
 
-18H00 - Annonce des résultats et sur les 11 équipes de 5 nous avons été sélectionnée vainqueur, j'ai vraiment aimé faire ce hackathon car j'ai pu travailler en équipe avec d'autres types de profils que des développeurs web et c'est est vraiment enrichissant comme expérience.
+18H00 - Annonce des résultats et sur les 11 équipes de 5 nous avons été sélectionnée vainqueur, j'ai vraiment aimé faire ce hackathon car j'ai pu travailler en équipe avec d'autres types de profils que des développeurs web et ce fut vraiment enrichissant comme expérience.
 
 ## Équipe 4 - BreizhGeek
 * [Micipsa Sersour](https://www.linkedin.com/in/micipsa-sersour/) _alias_ [@MiciWeb](https://github.com/MiciWeb).
