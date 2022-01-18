@@ -7,7 +7,7 @@ Le but était de répondre à une problématique concernant le voyageur d'affair
 Pour ce hackathon j'ai été le développeur web et designer de mon équipe.
 
 ## Présentation du projet
-Ce site fait en [react](https://fr.reactjs.org/) a été réaliser dans le but de représenter la fonctionnalité qu'on souhaite proposer à l'api de CDS Groupe qui est une fonctionnalité de recherche et de filtre d'hôtels par espaces de travails qu'ils contiennent afin de répondre à la forte demande et montée de ceci après la crise.
+Ce site fait en [react](https://fr.reactjs.org/) a été réalisé dans le but de représenter la fonctionnalité qu'on souhaite proposer à l'api de CDS Groupe qui est une fonctionnalité de recherche et de filtre d'hôtels par espaces de travails qu'ils contiennent afin de répondre à la forte demande et montée de ceci après la crise.
 Il se présente en premier temps par une [page d'accueil](https://raw.githubusercontent.com/MiciWeb/Hackathon-CDS/master/src/image/hackhaton-project-screen/1-home-page.png) qui invite l'utilisateur à rechercher un hôtel de l'api officiel.
 Et ensuite par une [page de recherche](https://raw.githubusercontent.com/MiciWeb/Hackathon-CDS/master/src/image/hackhaton-project-screen/2-search-page.png) ou l'utilisateur peut choisir ses hôtels en fonctions des type ou nombres d'espaces de travails disponibles tout en consultant leurs notes et quelques critères d'intérieur.
 
