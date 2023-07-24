@@ -11,7 +11,7 @@ Ce [hackathon](https://www.linkedin.com/feed/update/urn:li:activity:685155635524
 
 Ce site réalisé en [React](https://fr.reactjs.org/) a été conçu dans le but de représenter la fonctionnalité que nous souhaitions proposer à l'API de CDS Groupe durant le hackathon. Cette fonctionnalité consistait à rechercher et filtrer les hôtels par espaces de travail qu'ils contiennent, afin de répondre à la forte demande et à la montée de cette exigence après la crise sanitaire.
 
-Le site se présente tout d'abord avec une ![page d'accueil](https://raw.githubusercontent.com/MiciWeb/Hackathon-CDS/master/src/image/hackhaton-project-screen/1-home-page.png) qui invite l'utilisateur à rechercher un hôtel de l'API officielle. Ensuite, il propose une ![page de recherche](https://raw.githubusercontent.com/MiciWeb/Hackathon-CDS/master/src/image/hackhaton-project-screen/2-search-page.png) où l'utilisateur peut choisir ses hôtels en fonction des types ou nombres d'espaces de travail disponibles, tout en consultant leurs notes et quelques critères d'intérieur.
+Le site se présente tout d'abord avec une page d'accueil ![page d'accueil](https://raw.githubusercontent.com/MiciWeb/Hackathon-CDS/master/src/image/hackhaton-project-screen/1-home-page.png) qui invite l'utilisateur à rechercher un hôtel de l'API officielle. Ensuite, il propose une page de recherche ![page de recherche](https://raw.githubusercontent.com/MiciWeb/Hackathon-CDS/master/src/image/hackhaton-project-screen/2-search-page.png) où l'utilisateur peut choisir ses hôtels en fonction des types ou nombres d'espaces de travail disponibles, tout en consultant leurs notes et quelques critères d'intérieur.
 
 ## Lancer le projet
 
